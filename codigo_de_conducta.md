@@ -57,7 +57,7 @@ Las personas encargadas de velar por el respeto del código de conducta, estará
 -	Ayudándole con la compañía de alguna persona voluntaria mientras la situación se resuelve.
 -	Mediando en cualquier conflicto relacionado al código de conducta.
 -	Expulsando a personas que violen el código de conducta del evento o la comunidad. 
--	De cualquier otra manera, ayudando y brindando soporte a que cualquier persona que experimente acoso pueda sentirse segura. 
+-	De cualquier otra manera, ayudando y brindando soporte a que cualquier persona que experimente acoso o discriminación pueda sentirse segura. 
 
 En este espacio valoramos su participación y nos preocupamos por la calidad de su experiencia en esta comunidad. Esperamos que las personas miembros sigan estas reglas a lo largo de cualquier tipo de interacción comunitaria, ya sea canales de comunicación digital, charlas, talleres o cualquier actividad social realizada a lo largo del día y la noche, así como desde los canales digitales (IRC, telegram, listas de correo, email, etc.).
 
