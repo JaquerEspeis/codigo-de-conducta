@@ -16,10 +16,10 @@ Las personas miembros del JáquerEspeis deben:
 
 ## Este repositorio
 
-En este repositorio encontrarán la
-[versión completa del Código de Conducta](codigo_de_conducta.md), una
-[versión mediana](codigo_de_conducta-version_mediana.md) y una
-[versión corta](codigo_de_conducta-version_corta.md).
+En este repositorio encontrarán las siguientes versiones del Código de Conducta:
+* [Versión completa](codigo_de_conducta.md).
+* [Versión mediana](codigo_de_conducta-version_mediana.md). 
+* [Versión corta](codigo_de_conducta-version_corta.md).
 
 El documento de referencia siempre será la versión completa.
 
